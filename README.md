@@ -7,4 +7,6 @@ GRN code
 Batch code 
 Sales order code 
 Sales invoice code
+Report code
+
 
